@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.glensonansin.mytodoapp"
+      "package": "com.cbtrx.mytodoapp"
     },
     "web": {
       "bundler": "metro",
@@ -43,7 +43,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "6bb834fc-534e-407b-b757-c91c4a2c376c"
+        "projectId": "56769f23-c6d5-44e6-a0c4-c682a86bc3f0"
       }
     }
   }
